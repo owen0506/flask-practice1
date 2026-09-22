@@ -5,6 +5,11 @@
     <title>자기소개</title>
 </head>
 <body>
+    <nav>
+        <a href="{{ url_for('home') }}">홈</a> |
+        <a href="{{ url_for('profile') }}">프로필</a> |
+        <a href="{{ url_for('greet', name='김시형') }}">인사</a>
+    </nav>
 
     <p>이름: 김시형</p>
     <p>학번: 22011685</p>
