@@ -17,9 +17,12 @@
 ## 화면
 
 ### 1. 주소 여섯 줄이 모두 보이는 문서
+![docs] <img width="943" height="861" alt="docs" src="https://github.com/user-attachments/assets/0c4842ed-189e-436a-b905-7c16cb542826" />
 
 
 ### 2. note를 넣어 만들었더니 201이 온 모습
+![post] <img width="886" height="414" alt="post" src="https://github.com/user-attachments/assets/446b26f2-9c9c-4bf7-a5a2-8345efa104d7" />
 
 
 ### 3. 없는 번호를 불렀더니 404가 온 모습
+![404] <img width="882" height="330" alt="notfound" src="https://github.com/user-attachments/assets/ef64730a-4096-4faa-aa9e-0bd537d427e0" />
